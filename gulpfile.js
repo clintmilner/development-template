@@ -42,8 +42,8 @@ else
 }
 
 htmlSources = [ outputDir + '*.html' ];
-cssSources = [ 'components/css/reset.css', 'components/css/styles.css' ];
-jsSources = [ 'components/js/CJMUtils.js', 'components/js/CJMEvents.js', 'components/js/CJMTriggers.js' ];
+cssSources = [ 'components/css/*.css' ];
+jsSources = [ 'components/js/*.js' ];
 vendorSources = [ 'components/js/vendor/*.js' ];
 jsonSources = [ outputDir + 'js/*.json' ];
 
