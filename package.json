@@ -1,0 +1,16 @@
+{
+  "name": "development-template",
+  "version": "0.0.1",
+  "description": "A WIP development starting point for FE projects.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clintmilner/development-template.git"
+  },
+  "author": "Clint Milner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clintmilner/development-template/issues"
+  },
+  "homepage": "https://github.com/clintmilner/development-template"
+}
