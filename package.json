@@ -1,6 +1,6 @@
 {
   "name": "development-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A WIP development starting point for FE projects.",
   "main": "index.js",
   "repository": {
